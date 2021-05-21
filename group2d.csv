@@ -1,0 +1,25 @@
+author2,country,year,representative,study,product,timing,total,w.cases
+Morean (2015),USA,2014,state,CT study,cannabis oil,lifetime,1123,174
+Morean (2015),USA,2014,state,CT study,concentrates,lifetime,1123,115
+Morean (2015),USA,2014,state,CT study,dried herbs,lifetime,1123,259
+Knapp (2019),USA,2016,national,,dried herbs,lifetime,1156,857
+Knapp (2019),USA,2016,national,,concentrates,lifetime,1156,788
+Knapp (2019),USA,2016,national,,cannabis oil,lifetime,1156,336
+Hammond (2021),Canada,2017,national,,dried herbs,30-day,502,79
+Hammond (2021),Canada,2018,national,,dried herbs,30-day,516,99
+Hammond (2021),Canada,2019,national,,dried herbs,30-day,711,134
+Hammond (2021),Canada,2017,national,,cannabis oil,30-day,502,64
+Hammond (2021),Canada,2018,national,,cannabis oil,30-day,516,96
+Hammond (2021),Canada,2019,national,,cannabis oil,30-day,711,182
+Hammond (2021),Canada,2017,national,,concentrates,30-day,502,106
+Hammond (2021),Canada,2018,national,,concentrates,30-day,516,115
+Hammond (2021),Canada,2019,national,,concentrates,30-day,711,211
+Hammond (2021),USA,2017,national,,dried herbs,30-day,474,97
+Hammond (2021),USA,2018,national,,dried herbs,30-day,531,114
+Hammond (2021),USA,2019,national,,dried herbs,30-day,710,163
+Hammond (2021),USA,2017,national,,cannabis oil,30-day,474,115
+Hammond (2021),USA,2018,national,,cannabis oil,30-day,531,164
+Hammond (2021),USA,2019,national,,cannabis oil,30-day,710,369
+Hammond (2021),USA,2017,national,,concentrates,30-day,474,126
+Hammond (2021),USA,2018,national,,concentrates,30-day,531,159
+Hammond (2021),USA,2019,national,,concentrates,30-day,710,291
